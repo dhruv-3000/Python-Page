@@ -2,22 +2,18 @@
 
 
 *{
-  background-color: #25252A;
+  /* background-color: rgb(3, 3, 53); */
+  background-image: url(https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8&w=1000&q=80);
+  
 }
-h1 {
-  margin: 30px;
-  font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
-}
+
 
 h2{
   margin: 50px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 3rem;
-  text-shadow:2px 0 #232931;
-  color: #4ECCA3;
+  text-shadow:2px 0 #d5dfec;
+  color: #9e08da;
   
 }
 
@@ -32,8 +28,8 @@ h2{
 
 
 .btn1{
-  width: 300px;
-  height: 100px;
+  width: 15rem;
+  height: 8rem;
   border: none;
   color: white;
   border-radius: 4px;
@@ -72,8 +68,8 @@ h2{
 }
  
 .btn2{
-  width: 300px;
-  height: 100px;
+  width: 15rem;
+  height: 8rem;
   border: none;
   color: white;
   border-radius: 4px;
@@ -111,8 +107,8 @@ h2{
   z-index: -1;}
 
   .btn3{
-    width: 300px;
-    height: 100px;
+    width: 15rem;
+    height: 8rem;
     border: none;
     color: white;
     border-radius: 4px;
@@ -150,8 +146,8 @@ h2{
     z-index: -1;}
 
     .btn4{
-      width: 300px;
-      height: 100px;
+      width: 15rem;
+      height: 8rem;
       border: none;
       color: white;
       border-radius: 4px;
@@ -189,8 +185,8 @@ h2{
       z-index: -1;}
 
       .btn5{
-        width: 300px;
-        height: 100px;
+        width: 15rem;
+        height: 8rem;
         border: none;
         color: white;
         border-radius: 4px;
@@ -230,9 +226,16 @@ h2{
         .abtpython{
           font-family: Georgia, 'Times New Roman', Times, serif;
           font-size: 2rem;
-          color: #42FBF2;
+          color: #9e08da;
         }
 
+        .python{
+          position: relative;
+          top: 1.5rem;
+          
+        }
+        
+        
         .whether{
           font-family: Verdana, Geneva, Tahoma, sans-serif;
           font-size: 1.5rem;
@@ -249,7 +252,7 @@ h2{
         .whatispython{
           font-family: Georgia, 'Times New Roman', Times, serif;
           font-size: 2rem;
-          color: #42FBF2;
+          color: #9e08da;
 
         }
 
@@ -269,7 +272,7 @@ h2{
         .difference{
           font-family: Georgia, 'Times New Roman', Times, serif;
           font-size: 2rem;
-          color: #42FBF2;
+          color: #9e08da;
         }
         
         .answer{
@@ -286,6 +289,18 @@ h2{
           bottom: 11rem;
         }
 
+        .pythonvid{
+          position: relative;
+          left: 1rem
+        }
+
+        .courses {
+          margin: 1rem;
+          font-family: 'Lobster', cursive;
+          text-shadow: 5px 0 #232931;
+          font-size: 3rem;
+          color: #9e08da;
+        }
 
 
 
